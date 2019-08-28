@@ -20,14 +20,13 @@
 	"require": {
 		"php": ">=7.1.0",
 		"ext-json": "*",
-		"symfony/yaml": "^4.0",
+		"symfony/yaml": "^3.0",
 		"justinrainbow/json-schema": "^5.0"
 	},
 	"require-dev": {
 		"cebe/indent": "*",
 		"friendsofphp/php-cs-fixer": "~2.13.1",
 		"phpunit/phpunit": "^6.5",
-
 		"oai/openapi-specification": "3.0.2",
 		"mermade/openapi3-examples": "1.0.0",
 		"apis-guru/openapi-directory": "1.0.0",
